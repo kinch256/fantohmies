@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x3C43c2083bCB4c29525aeCC519092c89dfcb8Ab7",
-  "SCAN_LINK": "https://ftmscan.com/token/0xECcC275264b131901D82061E3e17B832d72502Cb",
+  "CONTRACT_ADDRESS": "0xce2cEa0447a4715c3f166802C2A67191d200923f",
+  "SCAN_LINK": "https://ftmscan.com/token/0xce2cEa0447a4715c3f166802C2A67191d200923f",
   "NETWORK": {
     "NAME": "Fantom",
     "SYMBOL": "FTM",
-    "ID": 4002
+    "ID": 250
   },
   "NFT_NAME": "Fantohmies",
   "SYMBOL": "FHMI",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Paintswap",
-  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/assets/<contract>",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/collections/0xce2cEa0447a4715c3f166802C2A67191d200923f",
   "SHOW_BACKGROUND": true
 }
