@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3C43c2083bCB4c29525aeCC519092c89dfcb8Ab7",
+  "SCAN_LINK": "https://ftmscan.com/token/0xECcC275264b131901D82061E3e17B832d72502Cb",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 4002
+  },
+  "NFT_NAME": "Fantohmies",
+  "SYMBOL": "FHMI",
+  "MAX_SUPPLY": 448,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
