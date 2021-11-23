@@ -12,7 +12,7 @@
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/assets/<contract>",
   "SHOW_BACKGROUND": true
 }
